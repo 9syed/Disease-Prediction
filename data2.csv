@@ -1,0 +1,1000 @@
+DISEASE,MUNICIPALITY,BARANGAY,DATE,NUMBER OF CASES,Age,GENDER
+Measles,Siniloan,G. Redor,01-02-2017,1,80,Male
+Measles,Pakil,Gonzales,01-04-2017,123,36,Female
+Tuberculosis,Pakil,Casinsin,01-08-2017,43,75,Male
+Measles,Paete,Ilaya del Norte,01-10-2017,69,44,Female
+Dengue,Paete,Ermita,01-12-2017,135,86,Female
+Measles,Siniloan,Bagong Pag-Asa,1/13/2017,129,63,Male
+Dengue,Kalayaan,Longos,1/15/2017,59,94,Female
+Dengue,Pangil,Galalan,1/15/2017,4,35,Female
+Measles,Kalayaan,San Juan,1/17/2017,63,33,Male
+Measles,Siniloan,Magsaysay,1/18/2017,119,96,Female
+Tuberculosis,Paete,Ermita,1/19/2017,35,87,Male
+Measles,Pakil,Burgos,1/21/2017,41,5,Female
+Dengue,Kalayaan,San Juan,1/23/2017,71,25,Male
+Dengue,Pangil,Natividad,1/27/2017,124,19,Female
+Tuberculosis,Pakil,Gonzales,1/27/2017,135,16,Male
+Dengue,Pakil,Taft,1/27/2017,134,38,Female
+Measles,Siniloan,Bagumbarangay,02-09-2017,41,26,Female
+Measles,Siniloan,Bagumbarangay,02-10-2017,116,67,Female
+Tuberculosis,Siniloan,Mendiola,02-10-2017,51,76,Female
+Measles,Paete,Quinale,02-12-2017,34,6,Male
+Measles,Siniloan,Liyang,2/16/2017,30,44,Male
+Measles,Pangil,San Jose,2/20/2017,3,35,Female
+Measles,Pakil,Taft,2/24/2017,38,72,Male
+Dengue,Paete,Ibaba del Norte,03-03-2017,149,27,Female
+Tuberculosis,Pakil,Dorado,03-05-2017,89,55,Female
+Dengue,Paete,Ilaya del Norte,03-05-2017,24,35,Male
+Measles,Pakil,Dorado,03-06-2017,18,21,Female
+Tuberculosis,Siniloan,Magsaysay,03-09-2017,27,74,Male
+Dengue,Paete,Ilaya del Norte,3/13/2017,141,56,Male
+Dengue,Siniloan,Gen. Luna,3/17/2017,118,9,Male
+Dengue,Siniloan,Macatad,3/17/2017,109,11,Male
+Dengue,Pakil,Dorado,3/18/2017,74,66,Male
+Measles,Paete,Quinale,3/21/2017,79,92,Female
+Dengue,Paete,Ilaya del Norte,3/23/2017,94,18,Male
+Tuberculosis,Pakil,Banilan,3/24/2017,12,59,Male
+Tuberculosis,Siniloan,Mendiola,3/28/2017,10,46,Female
+Measles,Pakil,Casinsin,3/28/2017,1,89,Female
+Measles,Paete,Ibaba del Sur,04-01-2017,98,45,Male
+Measles,Paete,Ilaya del Sur,04-03-2017,80,51,Male
+Tuberculosis,Siniloan,Liyang,04-04-2017,52,47,Male
+Tuberculosis,Paete,Bagumbayan,04-06-2017,30,43,Male
+Measles,Pangil,Sulib,04-08-2017,4,74,Male
+Tuberculosis,Pangil,Galalan,04-11-2017,113,62,Female
+Tuberculosis,Siniloan,Gen. Luna,04-12-2017,39,20,Male
+Dengue,Paete,Ermita,04-12-2017,114,41,Female
+Dengue,Paete,Ibaba del Norte,4/15/2017,91,98,Female
+Measles,Pakil,Casinsin,4/20/2017,94,78,Female
+Tuberculosis,Pangil,Isla,4/20/2017,32,43,Female
+Measles,Pakil,Tavera,4/20/2017,7,52,Male
+Dengue,Paete,Ibaba del Sur,4/20/2017,38,97,Male
+Dengue,Siniloan,Mendiola,4/24/2017,112,24,Male
+Tuberculosis,Pangil,San Jose,4/28/2017,116,6,Male
+Dengue,Pakil,Casinsin,4/29/2017,8,46,Male
+Dengue,Siniloan,Wawa,4/30/2017,53,10,Male
+Dengue,Pangil,San Jose,05-08-2017,29,34,Female
+Tuberculosis,Siniloan,G. Redor,05-10-2017,93,3,Male
+Tuberculosis,Paete,Quinale,05-12-2017,69,45,Male
+Dengue,Siniloan,Liyang,5/17/2017,69,14,Male
+Tuberculosis,Kalayaan,San Juan,5/19/2017,17,9,Female
+Dengue,Pangil,Natividad,5/19/2017,106,32,Male
+Tuberculosis,Paete,Maytoong,5/20/2017,95,5,Male
+Dengue,Pangil,Balian,5/25/2017,56,65,Female
+Dengue,Pangil,Galalan,5/25/2017,100,60,Male
+Dengue,Siniloan,Salubungan,5/26/2017,82,83,Male
+Tuberculosis,Pangil,Balian,5/29/2017,72,55,Male
+Tuberculosis,Paete,Ilaya del Sur,5/30/2017,5,45,Female
+Tuberculosis,Siniloan,J. Rizal,5/30/2017,23,40,Male
+Measles,Kalayaan,Longos,06-03-2017,43,86,Female
+Dengue,Pakil,Kabulusan,06-05-2017,47,86,Female
+Measles,Paete,Bagumbayan,06-08-2017,14,4,Female
+Tuberculosis,Pakil,Gonzales,06-12-2017,131,59,Female
+Measles,Siniloan,Kapatalan,6/13/2017,27,68,Male
+Measles,Pakil,Rizal,6/13/2017,137,20,Male
+Tuberculosis,Siniloan,Mayatba,6/16/2017,7,48,Female
+Measles,Siniloan,Buhay,6/17/2017,43,93,Female
+Dengue,Siniloan,Gen. Luna,6/20/2017,78,13,Female
+Tuberculosis,Kalayaan,Longos,6/24/2017,49,55,Female
+Measles,Siniloan,Acevida,6/25/2017,20,6,Female
+Measles,Pakil,Taft,6/27/2017,36,54,Female
+Dengue,Siniloan,Bagumbarangay,6/29/2017,58,53,Male
+Measles,Paete,Ibaba del Sur,07-01-2017,106,34,Male
+Dengue,Siniloan,Macatad,07-04-2017,58,98,Male
+Dengue,Siniloan,Mayatba,07-06-2017,66,19,Male
+Dengue,Pakil,Tavera,07-06-2017,64,49,Male
+Dengue,Siniloan,Halayhayin,07-11-2017,91,91,Female
+Tuberculosis,Siniloan,Wawa,07-11-2017,136,97,Male
+Tuberculosis,Siniloan,Buhay,07-12-2017,46,79,Female
+Dengue,Siniloan,G. Redor,7/15/2017,83,12,Male
+Dengue,Kalayaan,San Antonio,7/17/2017,107,28,Male
+Measles,Paete,Ilaya del Sur,7/17/2017,141,22,Male
+Tuberculosis,Paete,Maytoong,7/19/2017,32,56,Male
+Dengue,Siniloan,Bagong Pag-Asa,7/19/2017,114,4,Female
+Tuberculosis,Siniloan,Mayatba,7/21/2017,138,15,Female
+Measles,Pangil,Natividad,7/22/2017,105,94,Male
+Dengue,Pakil,Casinsin,7/23/2017,114,60,Female
+Measles,Siniloan,Liyang,7/23/2017,22,36,Male
+Dengue,Siniloan,Mayatba,7/25/2017,61,4,Female
+Dengue,Pangil,Balian,7/31/2017,90,61,Female
+Tuberculosis,Paete,Ilaya del Norte,08-02-2017,88,76,Male
+Measles,Siniloan,Macatad,08-04-2017,88,22,Female
+Tuberculosis,Pakil,Saray,08-04-2017,97,78,Female
+Tuberculosis,Kalayaan,Longos,08-05-2017,1,1,Male
+Dengue,Pangil,San Jose,08-08-2017,20,53,Male
+Dengue,Siniloan,Halayhayin,08-09-2017,21,79,Female
+Tuberculosis,Pangil,San Jose,08-10-2017,4,69,Male
+Measles,Siniloan,P. Burgos,08-11-2017,22,66,Female
+Measles,Siniloan,G. Redor,8/23/2017,22,34,Male
+Tuberculosis,Siniloan,Pandeño,8/24/2017,28,48,Male
+Tuberculosis,Pakil,Baño,8/25/2017,120,9,Female
+Dengue,Siniloan,Kapatalan,8/28/2017,96,18,Male
+Tuberculosis,Kalayaan,San Antonio,8/29/2017,94,12,Male
+Measles,Pangil,Dambo,8/29/2017,150,45,Female
+Dengue,Siniloan,Halayhayin,8/30/2017,56,38,Male
+Dengue,Paete,Bagumbayan,8/30/2017,71,74,Male
+Measles,Siniloan,Mendiola,8/30/2017,119,1,Male
+Measles,Paete,Ibaba del Norte,8/31/2017,39,66,Male
+Tuberculosis,Pakil,Kabulusan,09-04-2017,49,4,Male
+Measles,Pakil,Casinsin,09-06-2017,27,8,Female
+Tuberculosis,Siniloan,Llavac,09-07-2017,81,18,Male
+Tuberculosis,Pakil,Dorado,09-07-2017,26,26,Female
+Measles,Siniloan,Gen. Luna,09-08-2017,49,7,Male
+Measles,Siniloan,Llavac,09-11-2017,108,2,Female
+Tuberculosis,Siniloan,Wawa,9/13/2017,25,57,Female
+Measles,Pangil,Dambo,9/23/2017,11,68,Female
+Dengue,Siniloan,Gen. Luna,9/23/2017,59,2,Female
+Measles,Kalayaan,San Juan,9/25/2017,12,84,Female
+Measles,Pangil,Balian,9/26/2017,40,66,Male
+Measles,Pakil,Casinsin,9/30/2017,65,73,Male
+Measles,Siniloan,Llavac,10-03-2017,21,21,Female
+Tuberculosis,Siniloan,Mendiola,10-06-2017,130,27,Male
+Dengue,Paete,Ilaya del Norte,10-06-2017,93,51,Male
+Tuberculosis,Pangil,Sulib,10-12-2017,140,11,Male
+Dengue,Pakil,Baño,10/13/2017,44,9,Female
+Dengue,Pangil,Dambo,10/14/2017,92,95,Male
+Tuberculosis,Pakil,Gonzales,10/15/2017,150,71,Male
+Tuberculosis,Siniloan,Laguio,10/15/2017,42,14,Female
+Dengue,Siniloan,Buhay,10/21/2017,146,1,Male
+Measles,Siniloan,Llavac,10/26/2017,13,41,Female
+Tuberculosis,Siniloan,J. Rizal,10/26/2017,34,45,Female
+Dengue,Siniloan,Liyang,10/31/2017,11,81,Male
+Tuberculosis,Siniloan,Bagumbarangay,11-06-2017,63,50,Male
+Measles,Paete,Bagumbayan,11-07-2017,118,58,Female
+Dengue,Paete,Ermita,11-08-2017,92,65,Female
+Tuberculosis,Paete,Ermita,11-08-2017,31,29,Female
+Dengue,Siniloan,G. Redor,11-10-2017,78,86,Male
+Dengue,Pangil,Sulib,11-12-2017,4,24,Female
+Measles,Siniloan,Macatad,11-12-2017,142,30,Female
+Measles,Paete,Maytoong,11/13/2017,120,88,Male
+Dengue,Pakil,Casinsin,11/16/2017,108,55,Male
+Dengue,Pangil,Galalan,11/18/2017,146,65,Male
+Dengue,Pakil,Tavera,11/22/2017,10,72,Female
+Measles,Paete,Ermita,11/23/2017,65,67,Female
+Measles,Siniloan,G. Redor,11/24/2017,126,95,Male
+Tuberculosis,Kalayaan,San Juan,11/26/2017,122,63,Female
+Tuberculosis,Kalayaan,San Antonio,11/27/2017,108,67,Male
+Tuberculosis,Paete,Ilaya del Norte,11/28/2017,58,28,Male
+Measles,Siniloan,Mendiola,11/28/2017,113,94,Male
+Tuberculosis,Siniloan,Magsaysay,12-01-2017,94,93,Male
+Measles,Pakil,Kabulusan,12-03-2017,57,48,Male
+Dengue,Siniloan,Buhay,12-04-2017,81,67,Female
+Dengue,Pakil,Matikiw,12-06-2017,67,75,Male
+Dengue,Siniloan,Wawa,12-06-2017,53,13,Female
+Tuberculosis,Paete,Ermita,12-06-2017,110,62,Female
+Tuberculosis,Siniloan,Buhay,12-07-2017,13,72,Female
+Measles,Pakil,Rizal,12-11-2017,100,8,Female
+Tuberculosis,Paete,Bagumbayan,12/20/2017,12,91,Male
+Measles,Pakil,Casa Real,12/20/2017,127,33,Female
+Measles,Pakil,Saray,12/20/2017,16,40,Male
+Tuberculosis,Siniloan,Magsaysay,12/21/2017,101,94,Female
+Measles,Pakil,Dorado,12/21/2017,132,48,Female
+Tuberculosis,Siniloan,Liyang,12/23/2017,119,80,Male
+Measles,Paete,Ilaya del Norte,12/24/2017,70,81,Female
+Measles,Paete,Bagumbayan,12/28/2017,33,24,Male
+Dengue,Pakil,Gonzales,12/29/2017,40,34,Female
+Measles,Paete,Ilaya del Sur,01-04-2018,101,71,Female
+Dengue,Pangil,Isla,01-05-2018,80,21,Male
+Measles,Siniloan,Buhay,01-07-2018,82,52,Male
+Measles,Siniloan,J. Rizal,01-07-2018,101,96,Female
+Measles,Siniloan,Kapatalan,01-08-2018,139,6,Male
+Measles,Paete,Quinale,01-10-2018,50,18,Female
+Dengue,Siniloan,Bagong Pag-Asa,1/14/2018,45,78,Male
+Dengue,Siniloan,Buhay,1/22/2018,134,4,Male
+Dengue,Pangil,Isla,1/23/2018,74,41,Female
+Measles,Pakil,Baño,1/27/2018,125,63,Female
+Tuberculosis,Paete,Maytoong,1/29/2018,77,30,Male
+Dengue,Kalayaan,Longos,1/30/2018,48,56,Male
+Tuberculosis,Siniloan,G. Redor,02-03-2018,127,34,Male
+Measles,Siniloan,Gen. Luna,02-05-2018,102,82,Female
+Measles,Paete,Maytoong,02-07-2018,123,18,Male
+Measles,Siniloan,Salubungan,02-08-2018,47,17,Female
+Measles,Siniloan,Mendiola,02-09-2018,7,35,Female
+Measles,Siniloan,Laguio,02-12-2018,7,62,Female
+Tuberculosis,Siniloan,J. Rizal,2/13/2018,108,9,Female
+Tuberculosis,Pangil,Isla,2/13/2018,121,42,Female
+Dengue,Siniloan,Mayatba,2/15/2018,24,72,Female
+Tuberculosis,Pakil,Dorado,2/17/2018,85,74,Female
+Measles,Paete,Maytoong,2/18/2018,127,11,Female
+Tuberculosis,Siniloan,Mayatba,2/19/2018,128,19,Female
+Dengue,Siniloan,Wawa,2/22/2018,127,12,Female
+Measles,Siniloan,Liyang,2/25/2018,7,87,Female
+Measles,Paete,Ibaba del Sur,2/26/2018,113,39,Female
+Measles,Pangil,Balian,03-01-2018,149,25,Male
+Measles,Paete,Ibaba del Sur,03-02-2018,116,37,Male
+Measles,Pakil,Casinsin,03-05-2018,85,62,Female
+Dengue,Kalayaan,San Juan,03-05-2018,70,50,Male
+Measles,Pangil,Mabato-Azufre,03-07-2018,67,57,Female
+Dengue,Siniloan,P. Burgos,03-10-2018,35,71,Male
+Tuberculosis,Pangil,San Jose,03-11-2018,43,87,Female
+Dengue,Siniloan,Pandeño,03-12-2018,76,45,Female
+Tuberculosis,Siniloan,Bagumbarangay,3/19/2018,67,48,Male
+Measles,Paete,Bangkusay,3/20/2018,7,58,Female
+Measles,Siniloan,Bagong Pag-Asa,3/27/2018,73,16,Male
+Dengue,Pakil,Baño,3/28/2018,27,6,Male
+Tuberculosis,Pangil,Galalan,3/31/2018,95,68,Male
+Measles,Pakil,Taft,3/31/2018,56,90,Female
+Tuberculosis,Pangil,San Jose,04-01-2018,36,27,Female
+Dengue,Siniloan,Macatad,04-03-2018,70,36,Female
+Dengue,Pakil,Dorado,04-05-2018,64,19,Male
+Dengue,Pakil,Tavera,04-05-2018,2,84,Female
+Measles,Paete,Ermita,04-05-2018,101,7,Female
+Dengue,Kalayaan,San Juan,04-07-2018,30,85,Male
+Measles,Paete,Ilaya del Sur,04-07-2018,32,55,Female
+Dengue,Siniloan,Liyang,04-09-2018,22,12,Female
+Tuberculosis,Pakil,Casinsin,04-11-2018,68,62,Female
+Tuberculosis,Kalayaan,Longos,04-12-2018,87,36,Female
+Tuberculosis,Siniloan,Mayatba,4/21/2018,123,82,Female
+Tuberculosis,Siniloan,Salubungan,4/25/2018,132,36,Female
+Dengue,Siniloan,Pandeño,4/25/2018,109,77,Female
+Tuberculosis,Paete,Ilaya del Sur,4/29/2018,115,50,Male
+Tuberculosis,Pakil,Tavera,05-01-2018,60,27,Male
+Measles,Siniloan,Wawa,05-06-2018,108,58,Female
+Tuberculosis,Pakil,Gonzales,05-09-2018,13,11,Male
+Dengue,Pakil,Kabulusan,05-09-2018,44,34,Male
+Measles,Pakil,Banilan,5/14/2018,113,64,Male
+Measles,Pakil,Burgos,5/14/2018,108,14,Female
+Dengue,Pakil,Rizal,5/19/2018,43,67,Female
+Dengue,Paete,Bagumbayan,5/21/2018,42,85,Female
+Tuberculosis,Siniloan,Bagong Pag-Asa,5/21/2018,142,94,Male
+Dengue,Siniloan,Wawa,5/21/2018,17,21,Male
+Measles,Siniloan,J. Rizal,5/26/2018,149,1,Male
+Measles,Paete,Ibaba del Sur,5/28/2018,70,57,Male
+Tuberculosis,Siniloan,Halayhayin,5/29/2018,76,24,Male
+Measles,Siniloan,Salubungan,5/31/2018,5,88,Female
+Dengue,Siniloan,Wawa,06-05-2018,74,68,Female
+Measles,Pangil,Isla,06-06-2018,94,21,Female
+Tuberculosis,Paete,Ermita,06-07-2018,51,87,Female
+Tuberculosis,Paete,Ibaba del Norte,06-08-2018,47,83,Female
+Dengue,Pangil,Sulib,06-09-2018,7,49,Male
+Tuberculosis,Paete,Bagumbayan,06-10-2018,84,51,Female
+Tuberculosis,Siniloan,Bagumbarangay,06-11-2018,77,89,Female
+Dengue,Pakil,Banilan,06-12-2018,103,74,Male
+Dengue,Pangil,San Jose,6/13/2018,89,4,Male
+Tuberculosis,Paete,Ilaya del Sur,6/14/2018,76,95,Female
+Dengue,Siniloan,Mendiola,6/14/2018,38,97,Female
+Tuberculosis,Pangil,San Jose,6/25/2018,109,90,Male
+Measles,Siniloan,Buhay,6/30/2018,96,35,Female
+Dengue,Pakil,Matikiw,6/30/2018,20,44,Male
+Measles,Pakil,Tavera,07-01-2018,42,60,Female
+Measles,Siniloan,Kapatalan,07-01-2018,49,34,Female
+Tuberculosis,Pangil,Dambo,07-04-2018,137,51,Male
+Tuberculosis,Kalayaan,San Antonio,07-04-2018,64,14,Female
+Tuberculosis,Pangil,Galalan,07-06-2018,85,54,Female
+Dengue,Paete,Ilaya del Sur,07-09-2018,60,13,Female
+Measles,Pakil,Kabulusan,07-10-2018,130,92,Female
+Dengue,Paete,Bangkusay,7/17/2018,39,56,Male
+Measles,Siniloan,Laguio,7/18/2018,148,43,Female
+Dengue,Pangil,Isla,7/20/2018,43,39,Male
+Dengue,Siniloan,Acevida,7/21/2018,84,2,Male
+Measles,Siniloan,Bagumbarangay,7/25/2018,17,24,Female
+Tuberculosis,Paete,Bangkusay,7/27/2018,149,99,Male
+Dengue,Paete,Ilaya del Sur,7/28/2018,8,79,Male
+Dengue,Siniloan,Kapatalan,7/28/2018,132,42,Female
+Measles,Paete,Ibaba del Sur,7/30/2018,128,53,Male
+Tuberculosis,Pangil,Isla,08-03-2018,63,84,Male
+Measles,Siniloan,Liyang,08-03-2018,75,62,Male
+Tuberculosis,Paete,Bangkusay,08-04-2018,66,56,Male
+Measles,Pangil,Isla,08-07-2018,75,78,Male
+Dengue,Pakil,Baño,08-08-2018,116,87,Female
+Dengue,Siniloan,Bagong Pag-Asa,8/14/2018,53,60,Female
+Tuberculosis,Siniloan,Bagumbarangay,8/14/2018,32,26,Female
+Dengue,Siniloan,Kapatalan,8/15/2018,72,25,Male
+Tuberculosis,Siniloan,Pandeño,8/16/2018,50,41,Male
+Measles,Paete,Bagumbayan,8/18/2018,116,93,Male
+Measles,Paete,Ilaya del Sur,8/20/2018,53,1,Male
+Tuberculosis,Siniloan,Bagumbarangay,8/24/2018,110,89,Male
+Tuberculosis,Siniloan,Liyang,8/24/2018,12,24,Male
+Measles,Siniloan,Kapatalan,8/25/2018,68,98,Male
+Tuberculosis,Paete,Ibaba del Norte,8/30/2018,150,84,Male
+Tuberculosis,Pakil,Casinsin,09-03-2018,39,53,Male
+Dengue,Siniloan,Salubungan,09-04-2018,73,82,Male
+Tuberculosis,Pakil,Burgos,09-05-2018,125,69,Male
+Tuberculosis,Pangil,Mabato-Azufre,09-06-2018,119,88,Male
+Dengue,Pakil,Burgos,09-06-2018,65,48,Male
+Tuberculosis,Siniloan,Laguio,09-08-2018,130,78,Female
+Measles,Kalayaan,Longos,09-10-2018,43,67,Female
+Dengue,Paete,Ermita,09-12-2018,69,20,Female
+Dengue,Siniloan,Bagumbarangay,9/13/2018,99,78,Male
+Measles,Paete,Quinale,9/16/2018,87,98,Male
+Measles,Siniloan,J. Rizal,9/18/2018,59,89,Male
+Dengue,Paete,Bagumbayan,9/19/2018,71,91,Male
+Tuberculosis,Siniloan,Bagumbarangay,9/19/2018,57,36,Female
+Dengue,Paete,Bangkusay,9/21/2018,113,2,Female
+Tuberculosis,Paete,Ilaya del Norte,9/22/2018,2,58,Female
+Dengue,Siniloan,Bagumbarangay,9/26/2018,150,64,Female
+Measles,Kalayaan,Longos,9/29/2018,71,84,Female
+Measles,Siniloan,Magsaysay,9/29/2018,57,36,Male
+Tuberculosis,Pangil,Galalan,9/30/2018,128,15,Female
+Tuberculosis,Kalayaan,San Juan,10-03-2018,138,2,Male
+Dengue,Pangil,Natividad,10-09-2018,55,23,Female
+Tuberculosis,Pakil,Casa Real,10-09-2018,8,63,Male
+Tuberculosis,Paete,Maytoong,10-11-2018,28,24,Male
+Dengue,Siniloan,Pandeño,10/16/2018,31,53,Female
+Measles,Siniloan,J. Rizal,10/24/2018,96,72,Female
+Dengue,Pakil,Saray,10/31/2018,97,24,Female
+Dengue,Siniloan,Mayatba,10/31/2018,21,72,Male
+Tuberculosis,Pakil,Casinsin,11-03-2018,1,58,Male
+Dengue,Pangil,Dambo,11-04-2018,150,16,Female
+Dengue,Pangil,Dambo,11-08-2018,42,48,Female
+Tuberculosis,Pakil,Rizal,11-09-2018,17,35,Male
+Tuberculosis,Kalayaan,San Antonio,11/13/2018,71,26,Male
+Measles,Paete,Quinale,11/15/2018,89,87,Male
+Measles,Paete,Bagumbayan,11/16/2018,94,32,Female
+Measles,Siniloan,Laguio,11/19/2018,96,7,Male
+Measles,Pakil,Tavera,11/20/2018,72,40,Female
+Measles,Pangil,Sulib,11/21/2018,79,53,Male
+Measles,Pakil,Casinsin,11/21/2018,134,3,Male
+Dengue,Pakil,Gonzales,11/22/2018,62,77,Female
+Measles,Pakil,Rizal,11/24/2018,58,22,Male
+Tuberculosis,Siniloan,Acevida,11/25/2018,146,46,Male
+Dengue,Paete,Ilaya del Sur,11/27/2018,108,74,Male
+Tuberculosis,Pangil,Balian,11/29/2018,80,7,Male
+Tuberculosis,Pakil,Baño,11/30/2018,66,77,Female
+Measles,Pakil,Saray,12-05-2018,150,1,Male
+Measles,Paete,Ermita,12-06-2018,10,87,Male
+Measles,Siniloan,Mendiola,12/13/2018,70,3,Male
+Tuberculosis,Pangil,Galalan,12/19/2018,11,42,Female
+Dengue,Siniloan,G. Redor,12/20/2018,1,70,Female
+Tuberculosis,Siniloan,Acevida,12/23/2018,69,20,Male
+Tuberculosis,Siniloan,Salubungan,12/24/2018,27,79,Female
+Tuberculosis,Pangil,Natividad,12/26/2018,146,45,Female
+Measles,Paete,Quinale,12/28/2018,86,33,Female
+Measles,Pakil,Casa Real,12/28/2018,12,73,Female
+Measles,Siniloan,Mendiola,12/29/2018,21,4,Female
+Tuberculosis,Kalayaan,San Juan,01-02-2019,67,8,Male
+Tuberculosis,Pakil,Matikiw,01-03-2019,58,31,Male
+Dengue,Pakil,Gonzales,01-10-2019,140,51,Male
+Dengue,Paete,Quinale,01-10-2019,117,48,Female
+Tuberculosis,Pangil,Mabato-Azufre,01-11-2019,97,54,Male
+Dengue,Siniloan,Llavac,1/18/2019,137,44,Female
+Tuberculosis,Siniloan,Mendiola,1/20/2019,113,44,Male
+Tuberculosis,Siniloan,Macatad,1/21/2019,138,93,Male
+Measles,Pakil,Tavera,1/23/2019,130,69,Female
+Tuberculosis,Siniloan,Macatad,1/24/2019,124,65,Male
+Measles,Pakil,Casa Real,1/24/2019,27,46,Female
+Measles,Pakil,Rizal,1/26/2019,66,86,Male
+Dengue,Paete,Ibaba del Sur,1/30/2019,128,95,Female
+Tuberculosis,Pangil,Mabato-Azufre,02-04-2019,129,99,Male
+Tuberculosis,Pakil,Kabulusan,02-05-2019,32,21,Female
+Dengue,Pakil,Taft,02-05-2019,15,67,Male
+Tuberculosis,Siniloan,G. Redor,02-05-2019,25,81,Female
+Tuberculosis,Paete,Maytoong,02-05-2019,39,86,Female
+Dengue,Paete,Ilaya del Sur,02-07-2019,80,18,Male
+Measles,Paete,Bagumbayan,02-08-2019,141,69,Female
+Measles,Paete,Ilaya del Sur,02-09-2019,53,60,Female
+Tuberculosis,Paete,Bagumbayan,2/13/2019,17,8,Male
+Tuberculosis,Pakil,Kabulusan,2/15/2019,99,43,Male
+Dengue,Pakil,Taft,2/16/2019,65,27,Male
+Dengue,Paete,Ibaba del Norte,2/16/2019,139,69,Female
+Measles,Paete,Ibaba del Norte,2/22/2019,70,8,Male
+Dengue,Pakil,Dorado,03-04-2019,30,9,Female
+Dengue,Pangil,Galalan,03-06-2019,39,20,Female
+Dengue,Kalayaan,San Antonio,03-07-2019,43,38,Female
+Tuberculosis,Pangil,Galalan,03-08-2019,89,30,Female
+Tuberculosis,Pangil,Sulib,03-10-2019,82,38,Male
+Measles,Siniloan,P. Burgos,3/13/2019,3,5,Female
+Dengue,Pangil,Natividad,3/14/2019,103,28,Male
+Dengue,Siniloan,Salubungan,3/16/2019,7,61,Male
+Dengue,Siniloan,Wawa,3/18/2019,78,56,Male
+Measles,Pakil,Casinsin,3/18/2019,26,22,Female
+Tuberculosis,Pakil,Taft,3/19/2019,58,12,Female
+Dengue,Pakil,Casinsin,3/20/2019,27,77,Male
+Tuberculosis,Pangil,Sulib,3/23/2019,127,10,Male
+Dengue,Paete,Ermita,3/26/2019,137,42,Male
+Dengue,Siniloan,Laguio,3/26/2019,99,26,Male
+Tuberculosis,Siniloan,Salubungan,3/27/2019,85,91,Female
+Dengue,Siniloan,J. Rizal,3/27/2019,136,75,Female
+Tuberculosis,Siniloan,Mayatba,3/27/2019,129,95,Female
+Measles,Siniloan,Salubungan,3/28/2019,11,82,Male
+Measles,Paete,Ibaba del Norte,3/30/2019,30,96,Female
+Dengue,Paete,Quinale,04-01-2019,92,7,Female
+Measles,Pangil,Mabato-Azufre,04-02-2019,54,18,Female
+Dengue,Siniloan,Bagumbarangay,04-03-2019,44,58,Female
+Measles,Paete,Ermita,04-03-2019,115,47,Male
+Measles,Siniloan,J. Rizal,04-03-2019,93,64,Male
+Tuberculosis,Siniloan,Halayhayin,04-06-2019,147,92,Male
+Measles,Pangil,Dambo,04-06-2019,71,78,Female
+Measles,Paete,Maytoong,04-06-2019,79,54,Male
+Tuberculosis,Siniloan,Kapatalan,04-06-2019,86,54,Male
+Tuberculosis,Siniloan,Mendiola,04-11-2019,20,63,Female
+Tuberculosis,Pakil,Banilan,4/14/2019,135,70,Female
+Measles,Paete,Ibaba del Norte,4/16/2019,34,41,Male
+Dengue,Pakil,Kabulusan,4/22/2019,114,20,Female
+Dengue,Siniloan,G. Redor,4/25/2019,38,15,Male
+Dengue,Pakil,Casinsin,4/27/2019,72,16,Male
+Dengue,Kalayaan,San Antonio,4/27/2019,124,70,Female
+Dengue,Pakil,Kabulusan,4/29/2019,142,1,Male
+Measles,Siniloan,Salubungan,05-03-2019,93,39,Female
+Measles,Pakil,Matikiw,05-06-2019,115,57,Male
+Tuberculosis,Pangil,San Jose,05-06-2019,137,72,Male
+Tuberculosis,Siniloan,Halayhayin,05-08-2019,17,98,Male
+Tuberculosis,Siniloan,Gen. Luna,05-10-2019,33,71,Male
+Tuberculosis,Paete,Bangkusay,5/14/2019,115,1,Female
+Tuberculosis,Siniloan,Liyang,5/15/2019,44,88,Female
+Tuberculosis,Paete,Ilaya del Norte,5/16/2019,121,40,Male
+Measles,Paete,Bagumbayan,5/20/2019,104,5,Male
+Dengue,Pakil,Dorado,5/26/2019,82,30,Female
+Dengue,Pangil,San Jose,5/30/2019,46,72,Male
+Tuberculosis,Paete,Bagumbayan,5/31/2019,74,11,Male
+Tuberculosis,Paete,Ibaba del Sur,06-01-2019,46,28,Female
+Tuberculosis,Paete,Ilaya del Norte,06-02-2019,62,99,Male
+Measles,Pangil,Sulib,06-06-2019,91,17,Male
+Tuberculosis,Pakil,Taft,06-07-2019,141,15,Male
+Dengue,Pangil,Mabato-Azufre,06-08-2019,96,45,Male
+Tuberculosis,Siniloan,Kapatalan,06-12-2019,36,40,Male
+Dengue,Siniloan,Pandeño,6/14/2019,88,83,Female
+Tuberculosis,Paete,Ibaba del Norte,6/21/2019,135,40,Female
+Tuberculosis,Siniloan,Buhay,6/21/2019,111,45,Male
+Measles,Siniloan,Pandeño,6/24/2019,71,50,Female
+Dengue,Pangil,San Jose,6/26/2019,57,25,Female
+Tuberculosis,Pangil,Isla,6/26/2019,81,66,Female
+Dengue,Paete,Ermita,6/30/2019,21,45,Female
+Measles,Siniloan,Kapatalan,07-08-2019,14,72,Male
+Measles,Siniloan,Magsaysay,07-09-2019,30,46,Male
+Measles,Siniloan,Mayatba,7/19/2019,27,35,Female
+Measles,Paete,Ibaba del Sur,7/20/2019,18,73,Female
+Dengue,Siniloan,Bagong Pag-Asa,7/20/2019,101,14,Male
+Dengue,Paete,Bangkusay,7/22/2019,100,88,Female
+Tuberculosis,Pangil,Dambo,7/26/2019,2,57,Male
+Tuberculosis,Pangil,Sulib,08-02-2019,52,66,Female
+Dengue,Siniloan,Bagumbarangay,08-02-2019,29,73,Male
+Dengue,Siniloan,Gen. Luna,08-08-2019,84,81,Female
+Measles,Siniloan,Laguio,8/13/2019,146,29,Female
+Dengue,Pakil,Kabulusan,8/14/2019,25,79,Male
+Tuberculosis,Siniloan,Macatad,8/15/2019,117,95,Male
+Measles,Paete,Ilaya del Norte,8/15/2019,86,11,Male
+Tuberculosis,Pakil,Taft,8/17/2019,87,4,Male
+Dengue,Siniloan,P. Burgos,8/18/2019,100,95,Female
+Measles,Pakil,Casa Real,8/19/2019,116,73,Female
+Tuberculosis,Pangil,Mabato-Azufre,8/21/2019,142,63,Male
+Measles,Siniloan,Liyang,8/21/2019,102,86,Male
+Measles,Pakil,Taft,8/21/2019,105,12,Male
+Dengue,Siniloan,Buhay,8/21/2019,4,66,Female
+Dengue,Pangil,San Jose,8/26/2019,128,99,Female
+Tuberculosis,Pangil,Isla,8/29/2019,67,58,Female
+Measles,Siniloan,Salubungan,09-01-2019,84,48,Male
+Tuberculosis,Pangil,Isla,09-02-2019,125,57,Male
+Dengue,Siniloan,Mayatba,09-03-2019,32,30,Female
+Measles,Paete,Quinale,09-05-2019,6,99,Female
+Measles,Kalayaan,San Antonio,09-08-2019,150,83,Female
+Measles,Paete,Ermita,09-12-2019,40,89,Female
+Tuberculosis,Siniloan,Buhay,9/13/2019,123,31,Male
+Tuberculosis,Pangil,Isla,9/13/2019,98,32,Male
+Dengue,Siniloan,Acevida,9/15/2019,148,27,Male
+Dengue,Pakil,Saray,9/18/2019,136,10,Female
+Tuberculosis,Paete,Ibaba del Norte,9/23/2019,2,69,Female
+Measles,Pakil,Saray,9/28/2019,46,40,Male
+Tuberculosis,Pakil,Tavera,9/29/2019,21,77,Male
+Dengue,Siniloan,Pandeño,9/29/2019,129,45,Male
+Measles,Paete,Bagumbayan,10-01-2019,70,25,Male
+Dengue,Pangil,Dambo,10-02-2019,94,37,Female
+Tuberculosis,Siniloan,Llavac,10-02-2019,135,74,Male
+Tuberculosis,Siniloan,Kapatalan,10-05-2019,136,87,Female
+Tuberculosis,Pakil,Casinsin,10-07-2019,16,60,Male
+Dengue,Pangil,Sulib,10-11-2019,1,3,Male
+Dengue,Siniloan,Kapatalan,10-11-2019,33,57,Male
+Dengue,Pakil,Saray,10/13/2019,9,27,Female
+Dengue,Paete,Ermita,10/17/2019,63,22,Male
+Dengue,Paete,Quinale,10/20/2019,96,18,Female
+Tuberculosis,Siniloan,Liyang,10/21/2019,39,78,Female
+Measles,Paete,Quinale,10/25/2019,3,76,Male
+Tuberculosis,Siniloan,G. Redor,10/25/2019,55,72,Male
+Dengue,Siniloan,Buhay,10/26/2019,150,64,Male
+Tuberculosis,Pakil,Gonzales,10/26/2019,67,23,Male
+Tuberculosis,Pakil,Taft,10/28/2019,42,23,Female
+Dengue,Pangil,Balian,10/30/2019,108,37,Male
+Measles,Siniloan,Mayatba,11-01-2019,34,41,Female
+Dengue,Pangil,Sulib,11-01-2019,109,48,Female
+Measles,Pangil,Sulib,11-02-2019,2,59,Male
+Tuberculosis,Siniloan,Mendiola,11-05-2019,103,8,Female
+Tuberculosis,Siniloan,Bagumbarangay,11-06-2019,120,91,Female
+Dengue,Paete,Ilaya del Sur,11-07-2019,78,51,Female
+Dengue,Paete,Ermita,11-08-2019,94,60,Female
+Tuberculosis,Siniloan,Halayhayin,11/15/2019,63,92,Male
+Dengue,Pakil,Dorado,11/16/2019,50,29,Female
+Dengue,Kalayaan,San Juan,11/16/2019,6,35,Male
+Measles,Siniloan,Gen. Luna,11/18/2019,50,92,Male
+Measles,Siniloan,P. Burgos,11/18/2019,71,40,Female
+Dengue,Pangil,Dambo,11/26/2019,20,88,Male
+Tuberculosis,Pangil,Natividad,11/28/2019,100,49,Female
+Tuberculosis,Pangil,Isla,11/29/2019,33,98,Male
+Dengue,Kalayaan,Longos,11/30/2019,117,74,Female
+Tuberculosis,Pangil,Dambo,12-04-2019,96,37,Male
+Dengue,Pakil,Casa Real,12-08-2019,1,68,Male
+Dengue,Pangil,San Jose,12-12-2019,39,89,Male
+Dengue,Paete,Quinale,12/13/2019,28,68,Male
+Tuberculosis,Kalayaan,San Juan,12/17/2019,24,83,Male
+Dengue,Paete,Bagumbayan,12/22/2019,23,25,Male
+Tuberculosis,Pakil,Gonzales,12/22/2019,1,88,Female
+Measles,Siniloan,Llavac,12/27/2019,38,74,Female
+Measles,Paete,Maytoong,12/28/2019,138,43,Male
+Tuberculosis,Siniloan,Bagong Pag-Asa,12/29/2019,129,5,Male
+Measles,Siniloan,Mendiola,12/30/2019,29,65,Male
+Dengue,Pangil,Balian,12/31/2019,56,88,Female
+Measles,Paete,Ilaya del Sur,01-01-2020,140,79,Female
+Measles,Siniloan,Macatad,01-05-2020,134,77,Female
+Dengue,Siniloan,Mayatba,01-10-2020,78,72,Male
+Measles,Pakil,Rizal,01-11-2020,17,85,Male
+Measles,Siniloan,Bagumbarangay,1/17/2020,63,4,Female
+Measles,Siniloan,Kapatalan,1/18/2020,48,7,Male
+Tuberculosis,Paete,Ilaya del Sur,1/21/2020,71,70,Male
+Dengue,Paete,Ibaba del Sur,1/21/2020,41,26,Female
+Tuberculosis,Pakil,Casinsin,1/22/2020,66,3,Female
+Tuberculosis,Pakil,Saray,1/23/2020,19,62,Male
+Measles,Pakil,Dorado,1/24/2020,27,34,Male
+Tuberculosis,Siniloan,Laguio,1/27/2020,52,20,Female
+Measles,Paete,Bagumbayan,1/27/2020,49,42,Male
+Dengue,Siniloan,Acevida,02-02-2020,23,75,Male
+Measles,Siniloan,Acevida,02-04-2020,139,30,Male
+Dengue,Pakil,Casinsin,02-05-2020,26,46,Male
+Measles,Paete,Bangkusay,02-07-2020,87,49,Female
+Tuberculosis,Pangil,Galalan,02-08-2020,149,44,Female
+Measles,Pakil,Dorado,02-12-2020,9,46,Female
+Tuberculosis,Siniloan,Buhay,2/14/2020,119,55,Female
+Tuberculosis,Paete,Ermita,2/14/2020,130,96,Male
+Tuberculosis,Kalayaan,San Antonio,2/24/2020,3,59,Male
+Tuberculosis,Kalayaan,Longos,2/25/2020,95,1,Male
+Dengue,Siniloan,J. Rizal,2/26/2020,101,76,Female
+Measles,Siniloan,Macatad,2/28/2020,22,89,Female
+Tuberculosis,Siniloan,Kapatalan,2/28/2020,59,77,Female
+Dengue,Siniloan,P. Burgos,03-01-2020,71,23,Male
+Tuberculosis,Pangil,Balian,03-02-2020,119,30,Male
+Tuberculosis,Siniloan,Gen. Luna,03-03-2020,39,3,Female
+Dengue,Siniloan,Halayhayin,3/18/2020,46,46,Female
+Measles,Pangil,Balian,3/19/2020,98,88,Male
+Tuberculosis,Pakil,Saray,3/20/2020,128,21,Female
+Measles,Pangil,San Jose,3/21/2020,131,13,Female
+Dengue,Paete,Quinale,3/22/2020,24,12,Male
+Dengue,Kalayaan,Longos,3/27/2020,57,2,Female
+Dengue,Paete,Ermita,3/30/2020,61,27,Female
+Tuberculosis,Siniloan,G. Redor,04-05-2020,94,24,Female
+Tuberculosis,Pangil,Natividad,04-06-2020,60,24,Male
+Dengue,Paete,Bagumbayan,04-08-2020,38,33,Female
+Dengue,Siniloan,Gen. Luna,04-09-2020,103,60,Female
+Dengue,Pangil,Balian,4/15/2020,117,92,Male
+Measles,Siniloan,Llavac,4/17/2020,117,77,Male
+Tuberculosis,Pakil,Baño,4/21/2020,95,46,Female
+Measles,Siniloan,Salubungan,4/22/2020,20,45,Male
+Measles,Siniloan,Buhay,4/25/2020,67,65,Female
+Measles,Pakil,Matikiw,05-02-2020,97,63,Female
+Dengue,Paete,Quinale,05-03-2020,76,54,Male
+Tuberculosis,Pangil,Sulib,05-03-2020,47,62,Male
+Dengue,Siniloan,Gen. Luna,05-04-2020,65,77,Female
+Dengue,Siniloan,Mendiola,05-09-2020,130,29,Female
+Dengue,Pangil,Isla,05-09-2020,139,76,Female
+Dengue,Siniloan,Llavac,05-11-2020,78,36,Female
+Dengue,Pangil,Isla,05-12-2020,10,20,Female
+Tuberculosis,Pakil,Tavera,05-12-2020,23,96,Male
+Measles,Pangil,Dambo,5/14/2020,75,1,Female
+Dengue,Pakil,Gonzales,5/15/2020,2,33,Female
+Measles,Siniloan,Acevida,5/22/2020,56,48,Male
+Tuberculosis,Pangil,Isla,5/23/2020,75,54,Female
+Dengue,Pakil,Casa Real,5/23/2020,7,53,Female
+Tuberculosis,Paete,Ilaya del Sur,5/25/2020,38,22,Female
+Dengue,Pakil,Burgos,5/25/2020,60,16,Female
+Tuberculosis,Pangil,Sulib,5/30/2020,139,38,Male
+Measles,Siniloan,Acevida,06-03-2020,104,32,Female
+Dengue,Siniloan,Halayhayin,06-05-2020,21,27,Male
+Dengue,Siniloan,Macatad,06-05-2020,29,39,Female
+Tuberculosis,Pakil,Casinsin,06-05-2020,75,46,Female
+Dengue,Siniloan,Mayatba,06-08-2020,137,53,Male
+Dengue,Paete,Bagumbayan,06-11-2020,120,6,Male
+Dengue,Paete,Bagumbayan,06-11-2020,147,31,Male
+Tuberculosis,Pakil,Baño,6/13/2020,71,94,Male
+Measles,Siniloan,Kapatalan,6/14/2020,92,37,Female
+Tuberculosis,Siniloan,Gen. Luna,6/18/2020,34,17,Male
+Dengue,Siniloan,Mendiola,6/24/2020,17,73,Male
+Measles,Paete,Quinale,6/25/2020,42,31,Female
+Dengue,Siniloan,Liyang,6/30/2020,118,62,Male
+Dengue,Kalayaan,Longos,07-01-2020,111,64,Male
+Measles,Pangil,Isla,07-01-2020,15,50,Female
+Tuberculosis,Kalayaan,San Antonio,07-01-2020,117,54,Female
+Measles,Pangil,Dambo,07-02-2020,82,11,Female
+Tuberculosis,Kalayaan,San Juan,07-04-2020,53,94,Male
+Tuberculosis,Kalayaan,San Antonio,07-04-2020,8,81,Male
+Measles,Pakil,Casa Real,07-07-2020,99,24,Male
+Tuberculosis,Pangil,Dambo,07-10-2020,39,55,Female
+Tuberculosis,Paete,Bagumbayan,7/13/2020,11,15,Male
+Dengue,Paete,Quinale,7/15/2020,136,77,Male
+Dengue,Pakil,Burgos,7/15/2020,63,80,Male
+Measles,Siniloan,Llavac,7/19/2020,124,5,Female
+Tuberculosis,Pangil,Dambo,7/19/2020,100,33,Male
+Dengue,Pangil,Sulib,7/21/2020,69,38,Female
+Tuberculosis,Pakil,Matikiw,7/21/2020,13,12,Male
+Measles,Siniloan,Kapatalan,7/24/2020,132,68,Male
+Measles,Siniloan,Bagong Pag-Asa,7/24/2020,106,61,Female
+Measles,Siniloan,Mayatba,7/26/2020,109,95,Female
+Tuberculosis,Siniloan,Llavac,7/27/2020,47,9,Female
+Tuberculosis,Paete,Ilaya del Sur,7/31/2020,59,98,Male
+Measles,Kalayaan,San Juan,7/31/2020,148,29,Female
+Dengue,Siniloan,Pandeño,08-01-2020,118,33,Male
+Measles,Kalayaan,San Juan,08-01-2020,104,85,Female
+Measles,Pakil,Rizal,08-06-2020,66,61,Female
+Measles,Siniloan,Llavac,08-09-2020,128,99,Male
+Dengue,Siniloan,P. Burgos,8/13/2020,105,93,Male
+Measles,Pakil,Matikiw,8/15/2020,117,33,Male
+Dengue,Siniloan,Buhay,8/15/2020,125,50,Male
+Measles,Siniloan,Pandeño,8/17/2020,103,88,Male
+Measles,Pakil,Tavera,8/17/2020,107,13,Male
+Measles,Pangil,Isla,8/20/2020,98,84,Female
+Measles,Paete,Ilaya del Norte,8/21/2020,137,14,Female
+Measles,Pangil,Balian,8/22/2020,80,51,Male
+Tuberculosis,Pakil,Casinsin,8/23/2020,8,65,Male
+Tuberculosis,Siniloan,Mendiola,8/28/2020,39,87,Male
+Measles,Siniloan,Pandeño,8/29/2020,48,57,Female
+Tuberculosis,Paete,Ilaya del Sur,8/30/2020,112,4,Female
+Measles,Siniloan,Mayatba,8/30/2020,14,22,Male
+Tuberculosis,Pakil,Casa Real,09-03-2020,62,85,Female
+Measles,Pakil,Baño,09-04-2020,79,52,Female
+Tuberculosis,Pangil,Sulib,09-04-2020,97,85,Male
+Dengue,Paete,Ilaya del Sur,09-05-2020,7,38,Female
+Dengue,Pakil,Saray,09-06-2020,64,41,Female
+Tuberculosis,Siniloan,Liyang,09-09-2020,128,17,Male
+Measles,Siniloan,Pandeño,09-12-2020,55,60,Female
+Dengue,Kalayaan,San Juan,9/23/2020,78,20,Male
+Tuberculosis,Siniloan,Macatad,9/24/2020,5,19,Male
+Measles,Siniloan,J. Rizal,9/27/2020,127,17,Female
+Tuberculosis,Kalayaan,San Juan,9/27/2020,118,9,Female
+Measles,Pakil,Taft,9/30/2020,86,38,Male
+Tuberculosis,Pakil,Taft,9/30/2020,73,13,Male
+Dengue,Pakil,Kabulusan,10-01-2020,113,93,Female
+Measles,Siniloan,Mayatba,10-02-2020,30,86,Female
+Measles,Paete,Ibaba del Sur,10-06-2020,5,98,Female
+Dengue,Siniloan,Salubungan,10-09-2020,100,95,Male
+Dengue,Pangil,Mabato-Azufre,10-09-2020,99,77,Female
+Measles,Pakil,Casinsin,10/14/2020,139,75,Male
+Tuberculosis,Pangil,Galalan,10/15/2020,62,18,Female
+Measles,Siniloan,Wawa,10/18/2020,53,10,Female
+Dengue,Pakil,Gonzales,10/19/2020,30,54,Female
+Tuberculosis,Siniloan,Wawa,10/19/2020,6,63,Male
+Measles,Siniloan,Gen. Luna,10/20/2020,84,23,Female
+Dengue,Paete,Quinale,10/21/2020,36,65,Female
+Measles,Pakil,Casa Real,10/24/2020,148,50,Male
+Dengue,Paete,Maytoong,10/26/2020,54,66,Male
+Measles,Kalayaan,San Antonio,10/28/2020,70,97,Female
+Dengue,Siniloan,Liyang,10/28/2020,121,55,Female
+Dengue,Pakil,Matikiw,11-03-2020,137,33,Female
+Dengue,Paete,Ermita,11-05-2020,27,28,Female
+Tuberculosis,Paete,Bangkusay,11-10-2020,97,39,Female
+Measles,Pakil,Banilan,11/13/2020,141,24,Male
+Dengue,Pangil,Isla,11/14/2020,72,91,Female
+Measles,Paete,Ermita,11/20/2020,136,5,Male
+Measles,Siniloan,Llavac,11/21/2020,58,55,Female
+Measles,Pakil,Taft,11/21/2020,30,98,Male
+Measles,Siniloan,Bagong Pag-Asa,11/22/2020,87,51,Male
+Dengue,Siniloan,Gen. Luna,11/24/2020,118,7,Male
+Measles,Pangil,Dambo,11/26/2020,109,51,Male
+Dengue,Pakil,Saray,11/27/2020,7,24,Female
+Tuberculosis,Siniloan,Laguio,11/28/2020,62,51,Female
+Measles,Siniloan,Gen. Luna,11/30/2020,28,85,Female
+Dengue,Pangil,Dambo,12-03-2020,126,97,Female
+Measles,Paete,Ilaya del Sur,12-06-2020,113,89,Female
+Tuberculosis,Pakil,Matikiw,12-11-2020,93,61,Female
+Dengue,Pakil,Baño,12/13/2020,62,18,Male
+Dengue,Pakil,Gonzales,12/16/2020,10,56,Male
+Dengue,Siniloan,Macatad,12/18/2020,27,46,Female
+Measles,Kalayaan,Longos,12/19/2020,34,77,Female
+Measles,Pakil,Banilan,12/19/2020,13,62,Female
+Dengue,Siniloan,Mayatba,12/22/2020,142,74,Male
+Dengue,Pakil,Banilan,12/22/2020,115,53,Female
+Dengue,Siniloan,Wawa,12/24/2020,29,58,Female
+Dengue,Siniloan,Halayhayin,12/25/2020,15,8,Female
+Dengue,Paete,Maytoong,12/27/2020,89,68,Male
+Measles,Siniloan,Wawa,12/29/2020,118,63,Female
+Measles,Paete,Bagumbayan,01-04-2021,149,88,Female
+Dengue,Siniloan,Kapatalan,01-05-2021,101,23,Female
+Tuberculosis,Pangil,Mabato-Azufre,01-07-2021,44,54,Female
+Tuberculosis,Pangil,Balian,01-08-2021,20,78,Male
+Tuberculosis,Siniloan,Liyang,01-10-2021,142,91,Female
+Tuberculosis,Siniloan,Liyang,1/13/2021,86,9,Male
+Tuberculosis,Pakil,Matikiw,1/13/2021,132,46,Male
+Dengue,Siniloan,Salubungan,1/16/2021,87,23,Male
+Tuberculosis,Pangil,Dambo,1/20/2021,141,36,Female
+Measles,Paete,Ibaba del Norte,1/21/2021,134,17,Male
+Measles,Pakil,Rizal,1/21/2021,121,12,Male
+Measles,Siniloan,Pandeño,1/21/2021,81,65,Male
+Dengue,Pangil,Sulib,1/22/2021,140,32,Male
+Measles,Siniloan,Laguio,1/24/2021,118,44,Male
+Dengue,Siniloan,Laguio,1/26/2021,46,92,Female
+Tuberculosis,Pangil,Dambo,1/26/2021,114,17,Female
+Tuberculosis,Pakil,Matikiw,1/27/2021,39,94,Female
+Tuberculosis,Siniloan,Mendiola,1/29/2021,114,63,Female
+Tuberculosis,Siniloan,Halayhayin,1/31/2021,19,89,Female
+Tuberculosis,Paete,Ibaba del Sur,02-05-2021,113,17,Male
+Tuberculosis,Pakil,Gonzales,02-06-2021,52,48,Female
+Dengue,Pakil,Banilan,02-08-2021,76,49,Male
+Dengue,Paete,Bagumbayan,02-08-2021,117,21,Female
+Dengue,Pangil,Mabato-Azufre,02-09-2021,114,46,Female
+Measles,Pangil,Dambo,2/13/2021,125,25,Female
+Tuberculosis,Pangil,Natividad,2/14/2021,124,62,Male
+Measles,Siniloan,Bagumbarangay,2/15/2021,59,36,Female
+Dengue,Kalayaan,San Juan,2/20/2021,74,5,Female
+Tuberculosis,Siniloan,Wawa,2/21/2021,113,4,Female
+Dengue,Pakil,Dorado,2/22/2021,126,17,Male
+Tuberculosis,Paete,Ibaba del Norte,2/23/2021,50,92,Female
+Dengue,Siniloan,Bagumbarangay,2/24/2021,89,81,Male
+Dengue,Pangil,Isla,2/24/2021,137,95,Female
+Measles,Siniloan,J. Rizal,2/24/2021,129,49,Male
+Measles,Siniloan,Salubungan,03-03-2021,6,34,Male
+Dengue,Pakil,Matikiw,03-07-2021,74,56,Female
+Dengue,Pangil,San Jose,3/13/2021,7,37,Female
+Tuberculosis,Pangil,Isla,3/14/2021,115,59,Female
+Dengue,Siniloan,G. Redor,3/17/2021,113,76,Male
+Dengue,Siniloan,Pandeño,3/18/2021,76,68,Female
+Tuberculosis,Paete,Ilaya del Norte,3/20/2021,139,51,Male
+Dengue,Pakil,Gonzales,3/22/2021,42,95,Female
+Tuberculosis,Siniloan,Wawa,3/23/2021,50,61,Male
+Tuberculosis,Siniloan,Mayatba,3/23/2021,36,86,Female
+Measles,Siniloan,P. Burgos,3/24/2021,18,51,Female
+Dengue,Pakil,Baño,04-04-2021,100,28,Male
+Tuberculosis,Siniloan,Liyang,04-06-2021,115,73,Female
+Tuberculosis,Siniloan,Bagumbarangay,04-08-2021,84,89,Female
+Dengue,Pakil,Casa Real,04-09-2021,80,54,Female
+Dengue,Siniloan,Wawa,04-10-2021,68,20,Female
+Tuberculosis,Siniloan,P. Burgos,04-11-2021,22,98,Male
+Measles,Siniloan,Mayatba,4/13/2021,117,17,Female
+Measles,Pakil,Tavera,4/23/2021,10,9,Male
+Measles,Siniloan,P. Burgos,4/24/2021,36,28,Female
+Dengue,Paete,Ibaba del Sur,4/27/2021,69,73,Female
+Tuberculosis,Pakil,Casinsin,4/30/2021,85,7,Male
+Dengue,Siniloan,Macatad,05-01-2021,102,86,Male
+Dengue,Siniloan,Salubungan,05-01-2021,69,1,Female
+Tuberculosis,Kalayaan,Longos,05-02-2021,41,73,Female
+Measles,Paete,Ermita,05-02-2021,37,14,Male
+Dengue,Pakil,Casa Real,05-05-2021,20,63,Male
+Measles,Paete,Ilaya del Norte,05-06-2021,78,94,Male
+Dengue,Pangil,Natividad,5/15/2021,35,34,Female
+Dengue,Pakil,Tavera,5/16/2021,117,85,Male
+Measles,Pangil,Galalan,5/18/2021,82,10,Female
+Tuberculosis,Kalayaan,San Antonio,5/22/2021,92,28,Male
+Tuberculosis,Siniloan,Gen. Luna,5/24/2021,60,18,Male
+Dengue,Pakil,Dorado,5/29/2021,117,36,Female
+Tuberculosis,Siniloan,Bagumbarangay,5/30/2021,59,89,Female
+Dengue,Pangil,Dambo,5/31/2021,83,11,Male
+Tuberculosis,Siniloan,Pandeño,06-01-2021,78,68,Female
+Tuberculosis,Siniloan,Kapatalan,06-03-2021,25,67,Female
+Measles,Siniloan,Salubungan,06-03-2021,82,93,Male
+Dengue,Pangil,Natividad,06-08-2021,97,77,Male
+Measles,Paete,Quinale,06-10-2021,106,75,Female
+Tuberculosis,Pangil,Dambo,06-11-2021,149,91,Male
+Tuberculosis,Siniloan,Liyang,6/13/2021,35,52,Male
+Tuberculosis,Paete,Ermita,6/15/2021,129,20,Female
+Measles,Pakil,Casa Real,6/16/2021,27,3,Female
+Tuberculosis,Siniloan,Laguio,6/17/2021,5,53,Male
+Tuberculosis,Paete,Ibaba del Norte,6/21/2021,6,34,Female
+Tuberculosis,Siniloan,Magsaysay,6/28/2021,90,58,Female
+Measles,Pakil,Baño,07-01-2021,134,16,Male
+Dengue,Siniloan,Macatad,07-05-2021,15,24,Female
+Measles,Kalayaan,Longos,07-05-2021,85,45,Male
+Dengue,Pangil,Isla,7/14/2021,62,36,Female
+Measles,Siniloan,Macatad,7/15/2021,114,54,Female
+Dengue,Siniloan,Kapatalan,7/15/2021,55,86,Male
+Tuberculosis,Siniloan,Wawa,7/15/2021,44,90,Male
+Tuberculosis,Pangil,Sulib,7/18/2021,50,40,Male
+Tuberculosis,Pakil,Banilan,7/20/2021,6,27,Female
+Dengue,Paete,Maytoong,7/21/2021,67,99,Female
+Dengue,Siniloan,G. Redor,7/21/2021,38,9,Male
+Dengue,Siniloan,G. Redor,7/23/2021,75,37,Female
+Dengue,Kalayaan,Longos,7/23/2021,130,59,Female
+Tuberculosis,Siniloan,Acevida,7/24/2021,104,47,Male
+Dengue,Pangil,Galalan,7/24/2021,39,97,Male
+Measles,Paete,Ibaba del Sur,7/24/2021,127,61,Female
+Dengue,Pakil,Burgos,7/27/2021,132,80,Female
+Measles,Pakil,Tavera,08-01-2021,61,93,Male
+Tuberculosis,Siniloan,Halayhayin,08-03-2021,126,59,Female
+Measles,Pakil,Casinsin,08-05-2021,147,83,Male
+Dengue,Pakil,Gonzales,08-09-2021,110,77,Female
+Measles,Pakil,Dorado,08-10-2021,114,30,Female
+Measles,Pakil,Rizal,8/14/2021,50,7,Female
+Tuberculosis,Kalayaan,San Antonio,8/16/2021,16,82,Female
+Measles,Paete,Ermita,8/22/2021,107,68,Male
+Tuberculosis,Pakil,Saray,8/23/2021,25,3,Male
+Dengue,Pakil,Burgos,8/24/2021,118,78,Male
+Tuberculosis,Siniloan,Buhay,8/24/2021,3,73,Female
+Tuberculosis,Siniloan,Laguio,8/27/2021,11,77,Female
+Measles,Siniloan,Liyang,8/27/2021,30,68,Male
+Tuberculosis,Siniloan,Magsaysay,8/29/2021,92,73,Male
+Dengue,Siniloan,Liyang,8/29/2021,72,63,Male
+Tuberculosis,Pakil,Burgos,09-03-2021,90,32,Male
+Measles,Pakil,Baño,09-04-2021,136,26,Male
+Measles,Pakil,Gonzales,09-04-2021,11,54,Male
+Measles,Siniloan,Llavac,09-06-2021,137,47,Male
+Measles,Paete,Ibaba del Sur,09-08-2021,58,9,Female
+Measles,Siniloan,Mendiola,9/13/2021,8,27,Female
+Dengue,Paete,Ibaba del Norte,9/15/2021,33,33,Female
+Dengue,Siniloan,Bagong Pag-Asa,9/15/2021,93,55,Female
+Dengue,Pakil,Gonzales,9/15/2021,95,59,Female
+Measles,Pangil,Isla,9/18/2021,44,48,Female
+Dengue,Pangil,San Jose,9/19/2021,125,90,Female
+Tuberculosis,Siniloan,Macatad,9/23/2021,127,36,Female
+Measles,Siniloan,Laguio,9/27/2021,126,96,Male
+Dengue,Paete,Ibaba del Sur,9/28/2021,81,2,Male
+Tuberculosis,Pakil,Saray,9/29/2021,136,14,Female
+Dengue,Siniloan,Llavac,10-04-2021,30,90,Male
+Measles,Paete,Maytoong,10-07-2021,19,58,Male
+Measles,Siniloan,G. Redor,10-08-2021,34,88,Female
+Dengue,Siniloan,P. Burgos,10-09-2021,104,51,Male
+Measles,Siniloan,Liyang,10/16/2021,12,26,Male
+Dengue,Paete,Ibaba del Norte,10/17/2021,119,1,Female
+Measles,Paete,Maytoong,10/18/2021,115,88,Male
+Tuberculosis,Pakil,Matikiw,10/26/2021,128,41,Female
+Dengue,Paete,Maytoong,10/30/2021,9,25,Female
+Dengue,Siniloan,Buhay,11-01-2021,42,45,Male
+Dengue,Pangil,Galalan,11-01-2021,141,1,Female
+Tuberculosis,Paete,Ilaya del Norte,11-08-2021,11,86,Male
+Dengue,Pakil,Baño,11/16/2021,8,37,Male
+Measles,Pakil,Dorado,11/19/2021,23,6,Female
+Tuberculosis,Pangil,Natividad,11/21/2021,138,78,Female
+Dengue,Siniloan,G. Redor,11/23/2021,22,62,Male
+Tuberculosis,Pakil,Burgos,11/24/2021,32,12,Female
+Measles,Siniloan,Acevida,11/27/2021,141,41,Female
+Measles,Siniloan,J. Rizal,11/28/2021,31,95,Male
+Dengue,Paete,Bagumbayan,11/29/2021,45,20,Female
+Dengue,Pakil,Kabulusan,12-03-2021,130,91,Male
+Dengue,Kalayaan,San Juan,12-03-2021,34,49,Male
+Measles,Pakil,Rizal,12-05-2021,66,85,Male
+Measles,Pangil,Galalan,12-05-2021,85,3,Female
+Measles,Siniloan,Mendiola,12/14/2021,83,31,Female
+Tuberculosis,Siniloan,Liyang,12/19/2021,12,65,Female
+Measles,Paete,Ilaya del Sur,12/19/2021,130,64,Male
+Dengue,Pakil,Saray,12/22/2021,117,1,Male
+Tuberculosis,Siniloan,Mayatba,12/22/2021,88,51,Female
+Measles,Siniloan,Mendiola,12/23/2021,50,9,Male
+Dengue,Siniloan,Salubungan,12/24/2021,129,10,Male
+Dengue,Pakil,Matikiw,12/24/2021,91,81,Male
+Measles,Siniloan,Laguio,12/26/2021,107,4,Female
+Dengue,Pakil,Tavera,12/27/2021,138,46,Female
+Measles,Paete,Ilaya del Sur,12/30/2021,91,81,Male
+Tuberculosis,Siniloan,Acevida,12/31/2021,17,86,Female
+Measles,Siniloan,Kapatalan,01-01-2022,68,49,Female
+Measles,Pangil,Galalan,01-01-2022,48,92,Female
+Dengue,Pakil,Matikiw,01-05-2022,126,17,Female
+Dengue,Siniloan,Liyang,01-07-2022,37,22,Female
+Measles,Siniloan,Halayhayin,01-08-2022,99,29,Female
+Dengue,Siniloan,Salubungan,01-11-2022,141,37,Female
+Measles,Siniloan,Bagumbarangay,01-12-2022,114,23,Male
+Measles,Pakil,Taft,1/13/2022,82,72,Male
+Dengue,Pangil,Isla,1/13/2022,45,59,Male
+Dengue,Siniloan,Pandeño,1/16/2022,55,31,Male
+Measles,Pangil,Mabato-Azufre,1/17/2022,54,6,Male
+Tuberculosis,Pangil,Dambo,1/17/2022,94,57,Male
+Measles,Siniloan,Acevida,1/18/2022,32,68,Female
+Measles,Siniloan,Bagumbarangay,1/19/2022,63,63,Female
+Dengue,Siniloan,Liyang,1/23/2022,98,9,Female
+Measles,Pakil,Baño,1/25/2022,96,74,Female
+Measles,Siniloan,G. Redor,1/27/2022,39,94,Female
+Measles,Pakil,Dorado,1/28/2022,101,30,Male
+Tuberculosis,Siniloan,Mayatba,02-01-2022,64,92,Female
+Tuberculosis,Siniloan,Magsaysay,02-01-2022,4,95,Female
+Tuberculosis,Kalayaan,Longos,02-01-2022,136,4,Male
+Tuberculosis,Pakil,Rizal,02-03-2022,93,24,Female
+Tuberculosis,Siniloan,Macatad,02-09-2022,60,50,Female
+Tuberculosis,Paete,Bangkusay,02-10-2022,54,43,Female
+Dengue,Pakil,Rizal,02-11-2022,131,35,Female
+Dengue,Siniloan,Laguio,02-11-2022,79,81,Female
+Tuberculosis,Paete,Bangkusay,2/13/2022,47,74,Male
+Tuberculosis,Siniloan,Magsaysay,2/13/2022,135,33,Female
+Dengue,Pangil,San Jose,2/14/2022,77,78,Female
+Measles,Siniloan,Acevida,2/14/2022,119,45,Male
+Measles,Siniloan,Bagong Pag-Asa,2/15/2022,49,20,Female
+Dengue,Pakil,Banilan,2/15/2022,81,50,Male
+Tuberculosis,Pakil,Kabulusan,2/20/2022,45,71,Female
+Measles,Pakil,Matikiw,2/21/2022,91,31,Male
+Tuberculosis,Pakil,Casa Real,2/23/2022,62,85,Female
+Measles,Pakil,Matikiw,03-01-2022,129,74,Male
+Measles,Pangil,Balian,03-02-2022,131,63,Female
+Dengue,Pakil,Banilan,03-02-2022,147,86,Female
+Measles,Pangil,Galalan,03-09-2022,104,14,Male
+Dengue,Paete,Bagumbayan,03-09-2022,140,46,Female
+Tuberculosis,Siniloan,P. Burgos,3/15/2022,39,99,Male
+Tuberculosis,Paete,Bagumbayan,3/17/2022,26,73,Male
+Measles,Pakil,Banilan,3/17/2022,80,85,Male
+Measles,Siniloan,Kapatalan,3/19/2022,149,46,Male
+Dengue,Paete,Ibaba del Norte,3/22/2022,72,50,Male
+Tuberculosis,Pangil,Dambo,3/28/2022,56,72,Female
+Dengue,Siniloan,Bagumbarangay,3/28/2022,88,9,Male
+Tuberculosis,Pangil,San Jose,3/28/2022,62,85,Female
+Dengue,Siniloan,Gen. Luna,3/28/2022,10,29,Male
+Tuberculosis,Pangil,Natividad,3/31/2022,110,10,Male
+Dengue,Siniloan,Mendiola,04-01-2022,100,88,Female
+Measles,Paete,Maytoong,04-01-2022,96,26,Male
+Dengue,Paete,Bagumbayan,04-01-2022,106,83,Male
+Dengue,Pakil,Baño,04-04-2022,8,28,Female
+Tuberculosis,Siniloan,Bagumbarangay,04-05-2022,113,96,Male
+Measles,Paete,Ibaba del Norte,04-06-2022,129,12,Male
+Dengue,Pangil,Mabato-Azufre,04-06-2022,77,16,Female
+Dengue,Pangil,Balian,04-11-2022,51,63,Male
+Tuberculosis,Siniloan,Kapatalan,04-12-2022,62,57,Male
+Measles,Pakil,Baño,4/13/2022,65,95,Male
+Dengue,Pakil,Banilan,4/16/2022,21,45,Female
+Dengue,Siniloan,Macatad,4/17/2022,149,66,Female
+Tuberculosis,Siniloan,Laguio,4/17/2022,81,8,Male
+Dengue,Pakil,Matikiw,4/22/2022,80,40,Female
+Dengue,Pakil,Saray,4/23/2022,137,78,Male
+Dengue,Pakil,Banilan,4/23/2022,94,83,Female
+Tuberculosis,Siniloan,Magsaysay,4/25/2022,79,42,Female
+Tuberculosis,Paete,Ilaya del Sur,4/27/2022,104,68,Male
+Dengue,Pakil,Dorado,05-02-2022,70,94,Male
+Dengue,Siniloan,Wawa,05-05-2022,79,86,Female
+Dengue,Pakil,Burgos,05-06-2022,111,44,Male
+Tuberculosis,Pakil,Taft,05-06-2022,27,93,Male
+Measles,Pangil,Isla,05-08-2022,150,53,Female
+Tuberculosis,Pangil,Galalan,05-09-2022,90,39,Male
+Measles,Siniloan,Bagumbarangay,05-10-2022,7,48,Male
+Dengue,Pangil,Balian,5/13/2022,30,32,Male
+Tuberculosis,Siniloan,Buhay,5/14/2022,47,89,Male
+Tuberculosis,Pangil,Dambo,5/17/2022,131,84,Female
+Dengue,Pakil,Casinsin,5/18/2022,15,66,Female
+Dengue,Pakil,Banilan,5/21/2022,137,74,Male
+Tuberculosis,Pakil,Casinsin,5/21/2022,102,16,Female
+Tuberculosis,Pakil,Saray,5/22/2022,92,54,Male
+Tuberculosis,Pakil,Baño,5/26/2022,115,66,Female
+Measles,Siniloan,Liyang,5/26/2022,92,36,Male
+Measles,Pangil,Dambo,5/27/2022,56,2,Female
+Dengue,Siniloan,G. Redor,5/27/2022,105,89,Female
+Tuberculosis,Siniloan,Llavac,06-04-2022,65,95,Male
+Dengue,Pakil,Banilan,06-04-2022,63,73,Male
+Measles,Pangil,Galalan,06-07-2022,140,86,Female
+Dengue,Siniloan,Buhay,06-07-2022,65,43,Female
+Dengue,Pangil,San Jose,06-11-2022,113,5,Female
+Tuberculosis,Siniloan,J. Rizal,06-11-2022,134,21,Female
+Tuberculosis,Pakil,Taft,06-12-2022,92,20,Female
+Tuberculosis,Pakil,Tavera,06-12-2022,102,13,Male
+Measles,Pakil,Casinsin,6/13/2022,104,57,Female
+Tuberculosis,Pakil,Casinsin,6/14/2022,141,94,Male
+Tuberculosis,Pakil,Matikiw,6/16/2022,6,66,Female
+Dengue,Pangil,Isla,6/17/2022,29,63,Male
+Measles,Siniloan,G. Redor,6/19/2022,72,66,Male
+Tuberculosis,Siniloan,P. Burgos,6/23/2022,53,17,Male
+Dengue,Siniloan,Laguio,6/24/2022,88,12,Male
+Dengue,Pakil,Banilan,6/25/2022,67,18,Male
+Tuberculosis,Paete,Ermita,6/25/2022,1,29,Male
+Measles,Siniloan,Halayhayin,6/26/2022,38,41,Male
+Measles,Pangil,Dambo,6/27/2022,20,59,Male
+Tuberculosis,Paete,Maytoong,6/29/2022,84,40,Male
+Dengue,Pakil,Taft,07-01-2022,33,54,Female
+Dengue,Siniloan,Pandeño,07-01-2022,40,39,Female
+Dengue,Pakil,Saray,07-11-2022,134,51,Male
+Dengue,Pakil,Baño,07-12-2022,22,44,Female
+Measles,Kalayaan,San Juan,7/14/2022,142,26,Female
+Dengue,Siniloan,J. Rizal,7/16/2022,44,7,Male
+Measles,Kalayaan,Longos,7/23/2022,93,1,Female
+Dengue,Pangil,Natividad,7/24/2022,50,21,Male
+Dengue,Paete,Ibaba del Norte,7/25/2022,66,18,Male
+Dengue,Paete,Quinale,7/27/2022,60,26,Female
+Measles,Siniloan,P. Burgos,08-01-2022,78,73,Female
+Measles,Pakil,Burgos,08-03-2022,15,29,Male
+Dengue,Pangil,Natividad,08-04-2022,93,17,Female
+Measles,Siniloan,Magsaysay,08-05-2022,2,90,Female
+Dengue,Paete,Ibaba del Norte,08-06-2022,15,91,Female
+Tuberculosis,Pakil,Baño,08-07-2022,100,5,Female
+Tuberculosis,Siniloan,Halayhayin,08-10-2022,4,37,Female
+Dengue,Pangil,Balian,8/13/2022,8,23,Female
+Measles,Siniloan,Pandeño,8/14/2022,80,12,Male
+Measles,Siniloan,Llavac,8/17/2022,56,1,Male
+Dengue,Pakil,Baño,8/24/2022,36,4,Male
+Measles,Paete,Ilaya del Norte,8/25/2022,113,61,Male
+Measles,Paete,Ilaya del Norte,8/26/2022,10,75,Female
+Tuberculosis,Siniloan,Acevida,8/28/2022,140,55,Female
+Measles,Siniloan,Llavac,8/30/2022,36,31,Male
+Dengue,Pangil,Isla,09-03-2022,41,5,Female
+Tuberculosis,Siniloan,Llavac,09-03-2022,4,92,Female
+Tuberculosis,Siniloan,Macatad,09-05-2022,131,89,Male
+Dengue,Siniloan,Mayatba,09-08-2022,125,7,Male
+Dengue,Pakil,Kabulusan,09-08-2022,54,36,Female
+Measles,Kalayaan,San Antonio,9/19/2022,141,84,Male
+Dengue,Siniloan,G. Redor,9/20/2022,59,8,Male
+Tuberculosis,Siniloan,Macatad,9/21/2022,97,38,Male
+Dengue,Pakil,Casinsin,9/23/2022,72,91,Male
+Tuberculosis,Siniloan,Salubungan,9/24/2022,101,36,Female
+Dengue,Siniloan,Pandeño,9/24/2022,44,49,Male
+Dengue,Siniloan,Magsaysay,9/25/2022,93,65,Female
+Dengue,Siniloan,Acevida,9/28/2022,78,20,Female
+Dengue,Paete,Bangkusay,10-04-2022,90,71,Male
+Dengue,Kalayaan,San Antonio,10-09-2022,98,11,Female
+Tuberculosis,Pangil,Sulib,10/15/2022,137,35,Female
+Measles,Siniloan,Bagumbarangay,10/17/2022,96,72,Male
+Tuberculosis,Siniloan,Llavac,10/17/2022,50,16,Female
+Tuberculosis,Siniloan,Macatad,10/23/2022,72,7,Male
+Dengue,Siniloan,Buhay,10/24/2022,129,66,Female
